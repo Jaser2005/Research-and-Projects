@@ -16,12 +16,7 @@ The dataset used is the Pima Indians Diabetes Database from Kaggle/UC Irvine Rep
 ## 🧩 Models Used
 - Logistic Regression (baseline)
 - Random Forest Classifier
-- XGBoost Classifier
-
-## 📈 Results
-- Best Model: Random Forest (tuned)
-- Accuracy: 0.87
-- ROC AUC: 0.91
+- XGBoost ClassifieR
 
 ## 🧰 Tech Stack
 - Python
@@ -30,7 +25,5 @@ The dataset used is the Pima Indians Diabetes Database from Kaggle/UC Irvine Rep
 - Pandas, NumPy
 - Matplotlib, Seaborn
 
-## 🧾 How to Run
-```bash
-pip install -r requirements.txt
+
 python src/train_model.py
